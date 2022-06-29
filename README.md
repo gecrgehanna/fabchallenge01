@@ -1,8 +1,7 @@
 # BIOSTAMPS
 
 ![](Title.png)
-
-### IDEATION
+#### By [Kai Nieves](https://kais-site.webflow.io/fab-academy/fab-academy-weeks) & [George](https://gecrgehanna.github.io/mdefprocess/)
 
   A stamp kit made made fully from waste/bio material for kids to construct and play with.  
 
